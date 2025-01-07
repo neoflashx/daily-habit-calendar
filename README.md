@@ -1,1 +1,1 @@
-# daily-habit-calendar
+# dialy-habit-calendar
